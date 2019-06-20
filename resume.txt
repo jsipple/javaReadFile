@@ -1,0 +1,36 @@
+ Jacob Sipple
+Cary, NC 27518
+(919) 638-9965 | sipple3@gmail.com
+Portfolio: https://jsipple.github.io/Responsive-Portfolio/portfolio
+Github: https://github.com/jsipple?tab=repositories
+LinkedIn: https://www.linkedin.com/in/jacob-sipple-2b1703174/
+Summary
+Full Stack Programmer with a passion for finding clean and efficient solutions for problems through coding. Completed UNC coding bootcamp, which covered MERN stack development. Attained certifications from freeCodeCamp in both mobile responsiveness and javascript algorithms and data structures while attending UNC coding bootcamp. 2+ years of customer service experience with a strong ability to resolve conflicts and collaborate on a team.
+Technical Skills
+· Javascript (ES6, jQuery), HTML, CSS, React, Redux, NodeJS, Angular, node, express, MongoDB, mySQL, TravisCI
+Projects
+Launch App: https://launchtrackerapp.herokuapp.com/
+https://github.com/jsipple/launchapp
+· React app that utilizes various APIs to get information about the latest upcoming rocket launches, and articles related to them, as well as information on various space organizations.
+NY Times Scraper: https://github.com/jsipple/nyt-scrape
+https://nytscraper42.herokuapp.com/
+Angular app that using cheerio to scrape articles from the New York Times website saved articles and notes pertaining to them saved using mongoDB.
+Stocks4Hire: https://jsipple.github.io/Stocks4Hire/
+· Stock website that utilizes firebase to store userdata and chartJS to create a graph out of the data received from an API. Allows user to store favorites and saves their last five searches.
+Education & Training
+UNC Coding Bootcamp						November 2018 - May 2019
+Intensive curriculum that covered many different languages including HTML, CSS, JavaScript, jQuery, Bootstrap, Express.js, React.js, Node.js, MongoDB, MySQL, Command Line, Git
+Certification(~300 hours/per)
+Mobile responsiveness(freeCodeCamp)
+Javascript Algorithms and Data Structure
+Emory and Henry College, Emory, VA			         September 2013 - December 2015
+· Dean’s list (both semesters freshman year and fall semester of sophomore year)
+· Coursework completed towards a Bachelor of Science in Environmental Studies
+Raleigh Charter High School, Raleigh, NC 				June 2013
+· Graduated magna cum laude
+Work Experience
+SunTech Medical (Morrisville, NC)- Stockroom Assistant		2016 - 2018
+· Created software modification utilization (Visual Basics Applications (VBA) in real-time interface from email-generated orders.
+· Utilized Business Intelligence (BI), as tracking system integrating inventory at all company warehouses.
+· Designed and implemented an automated sorting method allowing retrieving and restocking of products more efficiently.
+
