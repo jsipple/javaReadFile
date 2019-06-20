@@ -1,8 +1,19 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map.Entry;
+import java.util.Set;
+import java.util.TreeMap;
 
 public class Main {
+//    static final Comparator<hmap> OccuranceOrder = new Comparator<hmap>() {
+//        @Override
+//        public int compare(hmap o1, hmap o2) {
+//            if
+//        }
+//    }
     public static void main(String[] args) {
         BufferedReader br = null;
         try {
@@ -22,16 +33,13 @@ public class Main {
             String contents = content.toString();
 //            creates an array based on spaces
             String[] words = contents.split("[' ']");
-//            creates new arrayList
-            Words resume = new Words();
+            hmap hash = new hmap();
             for (int i = 0; i < words.length; i++) {
-//                loops through the word array and adds each word to the arraylist
-                resume.addWord(words[i].trim(), 1);
+                hash.addWord(words[i]);
             }
-//          uncomment below and change to search for words
-//            resume.getWord("created");
-//            uses the word arraylist to create an ordered one and prints the values
-            resume.printOrderedWords();
+
+            System.out.println(hash.getHmap());
+            hash.sort();
         } catch (IOException e) {
 //            print an exception if file is not found and a few other issues
             System.out.println(e.toString());
