@@ -12,10 +12,13 @@ public class hmap {
 
     public void addWord(String word) {
         if (hmap.containsKey(word)) {
+            // when added a second time this if statement runs gets the value associated with the word and increments 
             int occurances = hmap.get(word);
             occurances++;
+            // updates the occurance value
             hmap.put(word, occurances);
         } else {
+            // first time added just adds the word and 1
             hmap.put(word, 1);
         }
     }
